@@ -1,0 +1,15 @@
+﻿Lexicon,Class,Precision,Recall,F1,Support
+SentiTurkNet,Positive,0.9277,0.924,0.9259,1473
+SentiTurkNet,Negative,0.7555,0.7655,0.7604,452
+SentiTurkNet,Accuracy,,,0.8868,1925
+SentiTurkNet,Wtd avg,,,0.887,1925
+
+SentiWordNet-TR,Positive,0.9434,0.8038,0.868,1473
+SentiWordNet-TR,Negative,0.5687,0.8429,0.6791,452
+SentiWordNet-TR,Accuracy,,,0.813,1925
+SentiWordNet-TR,Wtd avg,,,0.8237,1925
+
+SentiWordNet-EN,Positive,0.9399,0.8595,0.8979,1473
+SentiWordNet-EN,Negative,0.6419,0.8208,0.7204,452
+SentiWordNet-EN,Accuracy,,,0.8504,1925
+SentiWordNet-EN,Wtd avg,,,0.8562,1925
